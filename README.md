@@ -6,9 +6,9 @@
 
 </p>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SO-MI-AWAN&show_icons=true&include_all_commits=true&theme=react&cache_seconds=3200&hide_border=true" /></a>
 
-<h1 align="center">(SOMI-BRAND)</h1>
+
+<h1 align="center">(Sabri Malang)</h1>
 
 * python3 tool Lattest 
 
@@ -20,15 +20,7 @@
 
 * File cloning method [Lattest]
 
-# TEAM
 
-* Angga Kurniawan
-
-* Mr-James
-
-* Mafia-killer(dragon)
-
-* Somi-Brand
 
 # FULL COMMAND 
 
@@ -52,7 +44,7 @@
 
 • rm -rf jsl
 
-• git clone https://github.com/SO-MI-AWAN/jsl.git
+• git clone https://github.com/SabriMalang/jsl.git
 
 • cd jsl
 
