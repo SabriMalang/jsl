@@ -1,10 +1,6 @@
 # JSL-Tool
 
-<p align="center">
 
-<img src="https://i.pinimg.com/originals/16/62/ac/1662acee2dae9125798c9d54a6530333.gif">
-
-</p>
 
 
 
