@@ -70,12 +70,3 @@
 * Thank You So much
 
 ## CONNECT WITH US :
-
-<p align="center">
-
-<img src="https://cdn6.f-cdn.com/contestentries/610991/15980677/578d05c805d32_thumb900.jpg">
-
-</p>
-
-<a href="https://www.facebook.com/112589571242073/posts/116420000859030/?app=fbl"><img title="Facebook" src="https://img.shields.io/badge/SOMI-BRAND-brightgreen?style=for-the-badge&logo=github"></a>
-
